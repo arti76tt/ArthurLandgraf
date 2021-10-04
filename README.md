@@ -1,4 +1,4 @@
-Important note, if you're here because I applied to any job opportunity, please bear with me hehe! This profile is under construction, I'm working on multiple projects and pushing them here slowly. Not everything is here yet, in fact, almost nothing is here.
+*Important note, if you're here because I applied to any job opportunity, please bear with me hehe! This profile is under construction, I'm working on multiple projects and pushing them here slowly. Not everything is here yet, in fact, almost nothing is here.*
 
 - 👋 Hi, I’m @ArthurLandgraf
 - 🌎 I'm from Brazil (and currently here), but I've had professional experiences in Europe and Southeast Asia,
