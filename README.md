@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArthurLandgraf
-- 🌱 I am a Data Analyst equipped with Python, SQL, Power BI and I also like to play around with R.
-- 📊 My favorite part of being a data professional is to transform raw data into visualizations that generate valuable insights.
-- 🌎 I'm from Brazil, but I've had professional experiences in Europe and Southeast Asia,
+- 🌱 I am a Data professional equipped with Python, SQL, and many data visualization tools such as Power BI, Tableau and many others.
+- 📊 My favorite part of being a data professional is to crunch lot's of data in a unbiased way, find patterns that generate insights, to then create a story telling around it.
+- 🌎 I'm from Brazil, but I've had professional experiences in Europe and Southeast Asia, and have been in 20+ countries.
 
-Python | R | SQL | Power BI | Tableau
+Python | SQL | Power BI | Tableau | Cloud
