@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ArthurLandgraf
-- 🌱 I am a Data professional equipped with Python, SQL, and many data visualization tools such as Power BI, Tableau and many others.
-- 📊 My favorite part of being a data professional is to crunch lot's of data in a unbiased way, find patterns that generate insights, to then create a story telling around it.
-- 🌎 I'm from Brazil, but I've had professional experiences in Europe and Southeast Asia, and have been in 20+ countries.
-
-Python | SQL | Power BI | Tableau | Cloud
+- 👋 Hi, I’m Arthur!
+- 🌱 I am a Data Engineer equipped mainly with Python and SQL. I've also done a bunch of DataOps in AWS, GCP setting up and managing Kubernetes, Load Balancers yada yada...
+- 📊 My favorite part about working with data is to enable data-oriented business decision that drive true transformation. Data (almost) never lies, it can spit some harsh truth that can't be argued against with fairy tails or daydreams.
+- 🌎 I'm from Brazil, and I've had professional experiences in Europe and Southeast Asia, and have been in 20+ countries.
